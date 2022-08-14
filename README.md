@@ -12,3 +12,4 @@ such as splitting the balls and increasing the paddle.
 The game is for 1 or 2 players.
 Move with the arrows so that the ball does not fall.
 for 2 players use also 'a' and 'd'.
+press 'p' for pause and space to continue.
