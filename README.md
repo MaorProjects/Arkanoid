@@ -5,7 +5,7 @@ Open cmd and execute: git clone https://github.com/MaorProjects/Arkanoid.git
 Arkanoid is a block breaker arcade game.
 The game includes 6 levels.
 The game includes bonuses
-such as splitting the balls and increasing the paddle.
+such as splitting balls and increasing the paddle.
 
 The game is for 1 or 2 players.
 Move with the arrows so that the ball does not fall.
